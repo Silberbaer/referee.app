@@ -113,7 +113,7 @@
     "id": "2.6",
     "question": "A7 is serving a suspension while team B is in possession of the ball. The ball goes out and the referee whistles for a throw-in for team A. Before the game restart A7 enters the court.",
     "answers": {
-      "a": "Time-out. New suspension for A7 which results in a disqualification to A7. Throw-in for team A.",
+      "a": "Time-out. New suspension to A7 which results in a disqualification to A7. Throw-in for team A.",
       "b": "Time-out. New suspension to A7 which results in a disqualification to A7. Free-throw for team B.",
       "c": "Normal. Nothing illegal.",
       "d": "Time-out. Disqualification to A7. Throw-in for team B."
@@ -123,8 +123,8 @@
     "id": "2.7",
     "question": "During the team time-out for team B, A2 is protesting against the referees off the court and is guilty for serious unsportsmanlike conduct. When the game was stopped it was throw-in for team B.",
     "answers": {
-      "a": "Suspension to A2. The game restarts with throw-in for team B. Team A reduces by one the number of players.",
-      "b": "Disqualification to A2. Report. The game restarts with throw-in for team B. Team A reduces by one the number of players.",
+      "a": "Suspension to A2. The game restarts with throw-in for team B. Team A reduces the number of players by one.",
+      "b": "Disqualification to A2. Report. The game restarts with throw-in for team B. Team A reduces the number of players by one .",
       "c": "Only Report. The action was during Team time-out and off the court.",
       "d": "Disqualification to A2. Report. Team A restarts the game with 4 players. The game restarts with throw-in for team B."
     }
@@ -135,13 +135,13 @@
     "answers": {
       "a": "Normal. Nothing illegal.",
       "b": "Suspension to A3. Team A reduces by one the number of players. Free –throw for team B.",
-      "c": "Suspension to A3 and A5. Team A reduces by one the number of players by two. Free-throw for team B.",
+      "c": "Suspension to A3 and A5. Team A reduces the number of players by two. Free-throw for team B.",
       "d": "Suspension to the “responsible team official” of team A. Team A reduces by one the number of players. Free-throw for team B."
     }
   },
   {
     "id": "2.9",
-    "question": "While team B is in possession of the ball, official A of team B requests the Team time-out and the timekeeper whistles. Before the referee's time-out whistle, B3 shoots on goal and scores. At this moment the referee whistles for the Team time-out.",
+    "question": "While team B is in possession of the ball, official B0 of team B requests a Team time-out and the timekeeper whistles. Before the referee's time-out whistle, B3 shoots on goal and scores. At this moment the referee whistles for the Team time-out.",
     "answers": {
       "a": "Goal for team B. Team time-out for team B. Restart with G/K-throw for team A.",
       "b": "No goal. Team time-out for team B. Restart with free-throw for team B.",
@@ -155,7 +155,7 @@
     "answers": {
       "a": "Time-out. The referees go to the timekeeper and take action for the infringement. The 6m-throw and the disqualification to B2 are invalid.",
       "b": "Time-out. The referees go to the timekeeper and take action for the infringement. 6m-throw is invalid and disqualification to B2 is valid.",
-      "c": "Time-out. The referees go to the table and take action for the infringement. 6m-throw and disqualification to B2 are valid.",
+      "c": "Time-out. The referees go to the timekeeper and take action for the infringement. 6m-throw and disqualification to B2 are valid.",
       "d": "Time-out. The referees go to the timekeeper and take action for the infringement. The 6m-throw is valid and the disqualification to B2 is invalid."
     }
   },
