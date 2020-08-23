@@ -141,7 +141,7 @@
   },
   {
     "id": "2.9",
-    "question": "While team B is in possession of the ball, official B0 of team B requests a Team time-out and the timekeeper whistles. Before the referee's time-out whistle, B3 shoots on goal and scores. At this moment the referee whistles for the Team time-out.",
+    "question": "While team B is in possession of the ball, official A of team B requests a Team time-out and the timekeeper whistles. Before the referee's time-out whistle, B3 shoots on goal and scores. At this moment the referee whistles for the Team time-out.",
     "answers": {
       "a": "Goal for team B. Team time-out for team B. Restart with G/K-throw for team A.",
       "b": "No goal. Team time-out for team B. Restart with free-throw for team B.",
